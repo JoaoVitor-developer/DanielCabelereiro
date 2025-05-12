@@ -88,7 +88,7 @@ nav a {
 
 .imagens img {
   border-radius: 10px;
-  width: 400px;
+  width: 450px;
   height: 500px;
 }
 
@@ -127,4 +127,29 @@ instagram {
 
 .whatsapp-button:hover {
   transform: scale(1.1);
+}
+
+.google-review-button {
+  position: fixed;
+  bottom: 90px; /* um pouco acima do botão do WhatsApp */
+  right: 20px;
+  z-index: 1000;
+}
+
+.google-review-button img {
+  width: 60px;
+  height: 60px;
+}
+
+.instagram-button {
+  position: fixed;
+  bottom: 170px; /* acima do Google e WhatsApp */
+  right: 20px;
+  z-index: 1000;
+}
+
+.instagram-button img {
+  width: 60px;
+  height: 60px;
+  border-radius: 45%;
 }
