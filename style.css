@@ -100,6 +100,10 @@ footer {
   margin-top: 30px;
 }
 
+instagram {
+  text-decoration: none;
+}
+
 .whatsapp-button {
   position: fixed;
   bottom: 20px;
