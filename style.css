@@ -88,12 +88,12 @@ nav a {
 
 .imagens img {
   border-radius: 10px;
-  width: 300px;
-  height: auto;
+  width: 400px;
+  height: 500px;
 }
 
 footer {
-  background-color: #880e4f;
+  background-color: black;
   color: white;
   text-align: center;
   padding: 20px;
